@@ -1,0 +1,8 @@
+{
+  "name": "Remix ShareBite - Food Waste Reduction Platform",
+  "description": "Connect surplus food from donors and businesses with local communities and verified charities to eliminate food waste.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
